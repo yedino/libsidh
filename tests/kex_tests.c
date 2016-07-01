@@ -11,7 +11,7 @@
 
 #include "../SIDH.h"
 #include "test_extras.h"
-#include <malloc.h>
+#include <stdlib.h>
 #include <stdio.h>
 
 
