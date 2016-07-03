@@ -10,7 +10,7 @@
 *********************************************************************************************/ 
 
 #include "SIDH_internal.h"
-#include <malloc.h>
+#include <stdlib.h>
 
 
 CRYPTO_STATUS SIDH_curve_initialize(PCurveIsogenyStruct pCurveIsogeny, RandomBytes RandomBytesFunction, PCurveIsogenyStaticData pCurveIsogenyData)
